@@ -9,7 +9,7 @@ Welcome to my **GitHub Portfolio**! I'm **Jessica Ivey**, an AI-driven cybersecu
 - AI-Powered Security Automation 🤖
 - Penetration Testing & Ethical Hacking 🛡️
 - Splunk Threat Detection & Log Analysis 📊
-- Advanced Infinite Storage Systems (INFINITeIRIS) ☁️
+- Advanced Infinite Storage Systems (InfinITeIris) ☁️
 - Virtualization & Cloud Security (Ubuntu, VirtualBox, AWS) ☁️
 
 This portfolio showcases my **technical expertise, projects, and contributions** in AI cybersecurity.
@@ -30,7 +30,7 @@ This repository contains my key projects and experience:
 ---
 
 ## 🏆 Featured Projects
-### **INFINITeIRIS: Advanced Infinite Storage**
+### **InfinITeIris: Advanced Infinite Storage**
 - A **cloud-based AI-powered storage system** for **secure, efficient, and scalable** data storage.
 - Integrates **AI-driven anomaly detection** for security.
 - [Project Details](Projects/Infinite_Storage/README.md)
