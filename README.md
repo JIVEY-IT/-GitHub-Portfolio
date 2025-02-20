@@ -1,7 +1,7 @@
  🔥 Jessica Ivey's GitHub Portfolio
 
  👩‍💻 About Me
-Welcome to my GitHub Portfolio! I'm Jessica Ivey, an AI-driven cybersecurity specialist with expertise in:
+Welcome to my GitHub Portfolio! I'm Jessica Ivey Allen, an AI-driven cybersecurity specialist with expertise in:
 - AI-Powered Security Automation 🤖
 - Penetration Testing & Ethical Hacking 🛡️
 - Splunk Threat Detection & Log Analysis 📊
@@ -44,7 +44,7 @@ Check out my latest resume in the [Resume](Resume/) directory.
 
 
  🚀 Connect with Me
-- GitHub: [JIvey-Is-IT](https://github.com/JIvey-Is-IT)
+- GitHub: [JIvey-Is-IT](https://github.com/JIvey-IT)
 - LinkedIn: [Jessica Allen](https://www.linkedin.com/in/jessicaallen-it)
 - Email: nodasocit@gmail.com
 
