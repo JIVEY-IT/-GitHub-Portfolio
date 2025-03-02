@@ -44,7 +44,7 @@ Check out my latest resume in the [Resume](Resume/) directory.
 
 
  🚀 Connect with Me
-- GitHub: [JIvey-Is-IT](https://github.com/JIvey-IT)
-- LinkedIn: [Jessica Allen](https://www.linkedin.com/in/jessicaallen-it)
+- GitHub: [JIvey-IT] (https://github.com/JIvey-IT)
+- LinkedIn: [Jessica Allen] (https://www.linkedin.com/in/jessicaallen-it)
 - Email: nodasocit@gmail.com
 
